@@ -2,7 +2,7 @@ body
 {
 
 font-size : 1.1rem;
- 
+
 font-family : 'new roman';
 }
 
@@ -25,13 +25,9 @@ font-family : 'new roman';
    .banner {
       height: 365px;
       max-width: 100%;
- 
       background-repeat: no-repeat;
-
       background-position: 0% 100%;
- 
       background-image: url('../../../src/img/promotion.jpg');
-     
       background-size: cover;
       -webkit-background-size: cover;
       }
@@ -39,9 +35,7 @@ font-family : 'new roman';
 }
 
 @media screen and (max-width: 768px) 
-{ 
-
-  
+{  
    .menupc li{
       display: block;
    
@@ -58,12 +52,9 @@ font-family : 'new roman';
    }
    body 
 {
-
 font-size : 1.2rem;
-
 font-family : 'new roman';
 }
-
 .post{
   
    position: relative;
@@ -71,39 +62,31 @@ font-family : 'new roman';
 }
 
 }   
-
 .sidebar {
       position: relative;
-      padding-left: 4px;
-      margin: 16px 1px;
-      width: 20%;
-      background-color: grey;
-      border:1px transparent;
-   
+      padding-left: 30px;
+      margin: 0px 1px;
+      width: 35%;
+      background-color:grey;
+      border:5px transparent;
    }
-    
    .sidebar h2 {
     
-     font-size: 22px;
+     font-size: 27px;
       }
       .sidebar aside{
-         padding: 11px 11px;
+         padding: 25px 20px;
       }  
 
-    /* logo */   
-
 .logo {
- 
    height: 120px;
    width: 100%;
 }
-
 .picturelogo {
    width: 50%;
    position: relative;
    float: left;
 }
-
 .titresite {
    width: 50%;
    position: relative;
@@ -111,13 +94,10 @@ font-family : 'new roman';
    font-size: 28px;
    margin-left: 40%;
 }
-
 .promo {
- 
    width : 270px; 
    }
 nav{
- 
      background-color: black;
      width: 100%;
      height: auto;
@@ -125,26 +105,22 @@ nav{
      padding-top: 1px;
      padding-bottom: 1px;
 }
-
 nav a:hover{
    color: rgb(241, 9, 9);
 }
 
+
 a {
-   
    color: white;
 }
-
 a:hover
 {
    
      color: rgb(241, 9, 9);
 }
 a:visited{
-  
    color: grey;
 }
-
 img 
 {
      max-width: 100%;
@@ -152,7 +128,7 @@ img
 }
 
 .pied{
-    
+   
 }
 .container {
    display: flex;
